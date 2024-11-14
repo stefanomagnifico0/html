@@ -1,1 +1,52 @@
+<!doctype html>
+<html>
+  <head><title>lista della spesa</title></head>
+<center><H1>lista</H1></center>
+  <ol>
+      <li>lunedi
+      <ul>
+<li>pane</li>
+<li>formaggio</li>
+<li>mandarini</li>
+</ul>
+      </li>
+
+<li>martedi
+ <ul>
+<li>salsa</li> 
+<li>pasta</li>
+<li>pesce</li>
+
+</ul>
+      </li>
+<li>mercoledi
+<ul>
+<li>carne</li>
+<li>patatine</li>
+
+</ul>
+      </li>
+<li>giovedi
+<ul>
+<li>caramelle</li>
+<li>taralli</li>
+<li>focaccia</li>
+</ul>
+      </li>
+<li>venerdi/sabato/domenica
+<ul>
+<li>lasagne</li>
+<li>salsa</li>
+<li>olive</li>
+<li>uva</li>
+</ul>
+      </li>
+</ol>
+</html>
+
+
+
+
+
+
 
