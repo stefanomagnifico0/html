@@ -1,1 +1,5 @@
-
+body (background: Lightskyblue)
+h1 (font-size: 36px; font: arial; color: mediumblue; text-align: center; font-weight: bold; }
+h2 (Font-size: 24px; font: arial; colon: mediumvioletred; text-align: center; font-weight: bold }
+{font-size: 18px; font: arial; color: blue; background: azure; text-align: justify; › 
+ img {width: 208px; height: 200px;}
